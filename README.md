@@ -1,17 +1,14 @@
 # Prettify JSON
 
-[TODO. There will be project description]
+This file is designed to create a readable view of the data format json
 
 # Quickstart
 
-[TODO]
-
-Example of script launch on Linux, Python 3.5:
+Specify the path for python and json files
 
 ```bash
 
-$ python pprint_json.py <path to file>
-# TODO add output example
+python c:\Users\User\4_json\pprint_json.py "c:\Users\User\alco_shops.json
 
 ```
 
